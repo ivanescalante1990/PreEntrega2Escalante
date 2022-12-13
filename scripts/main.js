@@ -8,7 +8,7 @@ let Vestido = 3;
 let Bikini = 4;
 
 //SIMULADOR BIENVENIDA
-const MARCA = "TIENDA ONLINE NIA"
+const MARCA = "TIENDA ONLINE IVAN"
 const BIENVENIDA = ("¡Bienvenido a  " + MARCA+"!");
 
 console.log(MARCA);
